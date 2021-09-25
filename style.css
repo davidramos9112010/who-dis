@@ -1,0 +1,23 @@
+body{
+background-color: purple;
+
+}
+.heading{
+width:80%;
+font-size: 22px; ;
+
+
+}
+.name_of_objects{
+color: pink;
+
+
+}
+
+#camera{
+border: 2px dashed white ;
+width: 350;
+height: 250;
+}
+#result_object_name,.name_of_objects,#result_object_accuracy
+{color: yellow;}
